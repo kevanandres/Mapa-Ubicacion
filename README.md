@@ -31,7 +31,7 @@ Codigo usado Adding a Map with a Marker.
 <meta-data
     android:name="com.google.android.geo.API_KEY"
     android:value="@string/maps_api_key" />
-
+ -->
             
 Dependencias agregadas.
 
