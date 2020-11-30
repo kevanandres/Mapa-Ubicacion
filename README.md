@@ -21,4 +21,3 @@ Dependencias agregadas.
 implementation 'com.github.mumayank:AirLocation:1.2'
 
 maven { url 'http://jitpack.io'}
-
