@@ -18,7 +18,6 @@ https://developers.google.com/maps/documentation/android-sdk/map-with-marker
 
 Codigo usado Adding a Map with a Marker.
 
-<!--
 <meta-data
     android:name="com.google.android.gms.version"
     android:value="@integer/google_play_services_version" />
@@ -26,11 +25,11 @@ Codigo usado Adding a Map with a Marker.
         <!--
              The API key for Google Maps-based APIs.
         -->
-<!--        
+        
 <meta-data
     android:name="com.google.android.geo.API_KEY"
     android:value="@string/maps_api_key" />
--->
+
             
 Dependencias agregadas.
 
